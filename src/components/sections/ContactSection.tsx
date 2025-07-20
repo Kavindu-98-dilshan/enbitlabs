@@ -35,7 +35,7 @@ export function ContactSection() {
                   <p className="text-gray-600 dark:text-gray-300">
                     123 Tech Avenue, Innovation District
                     <br />
-                    San Francisco, CA 94107
+                    Sri Lanka, CA 94107
                   </p>
                 </div>
               </div>
@@ -48,7 +48,7 @@ export function ContactSection() {
                     Phone
                   </h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    +1 (555) 123-4567
+                    +94 (71) 298-2366
                   </p>
                 </div>
               </div>
@@ -61,7 +61,7 @@ export function ContactSection() {
                     Email
                   </h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    info@enbitlabs.com
+                    enbit.labs@gmail.com
                   </p>
                 </div>
               </div>
