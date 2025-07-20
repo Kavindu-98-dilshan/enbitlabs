@@ -21,21 +21,6 @@ export function ContactForm() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setIsSubmitting(true);
-    // // Simulate form submission
-    // setTimeout(() => {
-    //   setIsSubmitting(false);
-    //   setIsSubmitted(true);
-    //   setFormData({
-    //     name: '',
-    //     email: '',
-    //     message: ''
-    //   });
-    //   // Reset success message after 5 seconds
-    //   setTimeout(() => {
-    //     setIsSubmitted(false);
-    //   }, 5000);
-    // }, 1500);
-
      emailjs.send(
       'service_tgsyzaq', // e.g. 'service_xxxxxx'
       'template_zb1xovg', // e.g. 'template_yyyyyy'
