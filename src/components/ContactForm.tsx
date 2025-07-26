@@ -23,7 +23,7 @@ export function ContactForm() {
     setIsSubmitting(true);
      emailjs.send(
       'service_z4q3ua9', // e.g. 'service_xxxxxx'
-      'service_z4q3ua9', // e.g. 'template_yyyyyy'
+      'template_varj9if', // e.g. 'template_yyyyyy'
       {
         from_name: formData.name,
         from_email: formData.email,
