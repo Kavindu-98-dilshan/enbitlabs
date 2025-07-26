@@ -22,8 +22,8 @@ export function ContactForm() {
     e.preventDefault();
     setIsSubmitting(true);
      emailjs.send(
-      'service_tgsyzaq', // e.g. 'service_xxxxxx'
-      'template_zb1xovg', // e.g. 'template_yyyyyy'
+      'service_z4q3ua9', // e.g. 'service_xxxxxx'
+      'service_z4q3ua9', // e.g. 'template_yyyyyy'
       {
         from_name: formData.name,
         from_email: formData.email,
