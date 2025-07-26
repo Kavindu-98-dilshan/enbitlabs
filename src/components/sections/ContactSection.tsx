@@ -33,9 +33,9 @@ export function ContactSection() {
                     Address
                   </h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    123 Tech Avenue, Innovation District
+                    No.03, Rambukkana Road, Mawathagama
                     <br />
-                    Sri Lanka, CA 94107
+                    Sri Lanka
                   </p>
                 </div>
               </div>
@@ -49,6 +49,8 @@ export function ContactSection() {
                   </h4>
                   <p className="text-gray-600 dark:text-gray-300">
                     +94 (71) 298-2366
+                    +94 (76) 300-3678
+                    +94 (71) 640-0882
                   </p>
                 </div>
               </div>

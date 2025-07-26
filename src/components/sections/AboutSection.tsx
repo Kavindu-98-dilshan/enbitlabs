@@ -59,7 +59,7 @@ export function AboutSection() {
                 Who We Are
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                Founded in 2010, our company has grown from a small startup to a
+                Founded in 2023, our company has grown from a small startup to a
                 recognized industry leader. We specialize in developing
                 cutting-edge solutions that address complex business challenges.
               </p>
