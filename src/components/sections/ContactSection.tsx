@@ -49,7 +49,11 @@ export function ContactSection() {
                   </h4>
                   <p className="text-gray-600 dark:text-gray-300">
                     +94 (71) 298-2366
+                  </p>
+                  <p className="text-gray-600 dark:text-gray-300">
                     +94 (76) 300-3678
+                  </p>
+                  <p className="text-gray-600 dark:text-gray-300">
                     +94 (71) 640-0882
                   </p>
                 </div>
